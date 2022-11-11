@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">empty</string>
+    <string name="todo">TODO</string>
+    <string name="anu">anu</string>
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam commodi consequuntur culpa distinctio doloribus eum laborum laudantium maiores, mollitia officia omnis perferendis praesentium quos, reiciendis rerum saepe sit ullam voluptate?</string>
+    <string name="hi">Hi.</string>
+    <string name="welcome_">Welcome to my apps</string>
+    <string name="get_started">Get Started</string>
+    <string name="login_txt">Login</string>
+    <string name="signin_desc">Sign in with your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_with">Login with</string>
+    <string name="ilab_account">iLab Account</string>
+    <string name="doesn_t_have_an_account">Doesn\'t have an account?</string>
+    <string name="sign_up_here">Sign up here</string>
+    <string name="register">Register</string>
+    <string name="create_myxd_account_to_use_our_application">Create myXD account to use our application</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="sign_in_here">Sign in here</string>
+</resources>
